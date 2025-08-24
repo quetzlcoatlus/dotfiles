@@ -1,0 +1,7 @@
+[user]
+	name = quetzlcoatlus
+	email = lnalex2456@gmail.com
+[init]
+	defaultBranch = main
+[merge]
+	tool = vimdiff
