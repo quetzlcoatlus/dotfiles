@@ -14,6 +14,7 @@ declare -A FILE_MAP=(
   ["vim/.vimrc"]="$HOME/.vimrc"
   ["vim/.vim"]="$HOME/.vim"
   ["vim/nvim"]="$HOME/.config/nvim"
+  ["ssh/config"]="$HOME/.ssh/config"
 )
 
 
