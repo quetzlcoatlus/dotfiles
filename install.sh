@@ -10,6 +10,7 @@ declare -A FILE_MAP=(
   ["bash/.bash_profile"]="$HOME/.bash_profile"
   ["bash/.bashrc"]="$HOME/.bashrc"
   ["git/.gitconfig"]="$HOME/.gitconfig"
+  ["git/.gitignore_global"]="$HOME/.gitignore_global"
   ["tmux/.tmux.conf"]="$HOME/.tmux.conf"
   ["vim/.vimrc"]="$HOME/.vimrc"
   ["vim/.vim"]="$HOME/.vim"
